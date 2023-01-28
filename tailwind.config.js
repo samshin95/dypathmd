@@ -20,9 +20,7 @@ module.exports = {
       sky: colors.sky,
       pink: colors.pink,
 
-      primary: "#3b82f6", //'#F86011',   //主题颜色，用于所有控件的首要颜色
-      // secondary: '#fd5d0a', //提示性颜色，提示动作之类的信息
-      // accent: '#F86011', //交互性颜色，连接颜色之类的
+      primary: "#3b82f6",
     },
     screens: {
       sm: "640px",
